@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883162186758",
+    "firebase_url": "https://nsbmbusapp.firebaseio.com",
+    "project_id": "nsbmbusapp",
+    "storage_bucket": "nsbmbusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883162186758:android:faeb6697ff07820e",
+        "android_client_info": {
+          "package_name": "com.ishan.nsbmbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883162186758-eo4mohulrlur6sqkcojvt3e9h0r0du84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishan.nsbmbus",
+            "certificate_hash": "fc243f1da738e37186851b0b3c25592f3dbae70e"
+          }
+        },
+        {
+          "client_id": "883162186758-vkt1cd1r99g1dn5n9p5u885uh0qe265p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzwNpxXKijRcRLtrFqXgdfoMk5PIv1z0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883162186758-vkt1cd1r99g1dn5n9p5u885uh0qe265p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
